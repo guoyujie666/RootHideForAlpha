@@ -1,5 +1,3 @@
-# v3.5.1 更新日志
-- 更新 TS Enhancer Extreme 至 v0.5.8
-- 更新 Native Detector 至 7.3.1
-- 添加 ZN - Audit Patch v1.1
-- 更新版本号：）
+# 更新日志
+- 将检测APP改为扩展包模块方式安装，减小模块大小
+- 在操作按钮处添加 安装/更新检测APP扩展包 功能
